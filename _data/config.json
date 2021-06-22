@@ -3,7 +3,6 @@
     "palette": "yellow",
     "header": {
         "title": "Acisliver",
-        "logo_img": "images/logo.svg",
         "logo_img_alt": "Acisliver",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
